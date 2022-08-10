@@ -4,3 +4,16 @@
 
 ## У GIT ЕСТЬ СЛЕДУЮЩИЕ ФУНКЦИИ:
 
+>* GIT INIT
+
+>* GIT ADD
+
+>* GIT COMMIT
+
+>* GIT DIFF
+
+>* GIT LOG
+
+>* GIT STATUS
+
+>* GIT CHECKOUT
